@@ -1,1 +1,1 @@
-# Laravel-s-File-Structure
+# Laravel-File-Structure
